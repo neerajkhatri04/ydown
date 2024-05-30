@@ -8,7 +8,7 @@ FAQS = [
         "answer": "If you are also looking for a way to download YouTube videos copy the video URL in YDOWN, then download and save the video in less than a few seconds."
     },
     {
-        "question": "Does it free to download and save videos from GiveFastLink.com?",
+        "question": "Does it free to download and save videos from YDOWN?",
         "answer": "Absolutely yes. You can use our downloading service 100% free and unlimited."
     },
     {
@@ -16,7 +16,7 @@ FAQS = [
         "answer": "All videos are saved in the “Downloads” folder on almost all devices like Android, iOS, iPhone/iPad, Windows, and Mac."
     },
     {
-        "question": "What file formats can I download videos from GiveFastLink.com?",
+        "question": "What file formats can I download videos from YDOWN?",
         "answer": "Depending on the video you want to save, available formats and quality may differ. But all of them are available for you after pushing the download button. For example, MP4 format is available for almost all videos in different qualities, and MP3 format will be ready for sounds & music."
     },
     {
@@ -24,7 +24,7 @@ FAQS = [
         "answer": "Yes, of course. You can watch the videos after downloading them from your gallery or “Downloads” folder."
     },
     {
-        "question": "What quality of the video will I get after I download it from GiveFastLink?",
+        "question": "What quality of the video will I get after I download it from YDOWN?",
         "answer": "Our tool will save the best MP4 video quality possible. It can even save a Full HD, 4K format video from social networks and video stream services if it was uploaded in such quality."
     },
     {

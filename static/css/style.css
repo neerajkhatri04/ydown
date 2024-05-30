@@ -175,3 +175,40 @@ a {
 #faqs-accordion {
   background-color: #ef4444;
 }
+
+@media (max-width: 767px) {
+  form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+
+  #form button,
+  #form input {
+    width: 90vw;
+    font-size: larger;
+  }
+
+  .faqs-title {
+    font-size: larger;
+    margin-bottom: 10px;
+  }
+
+  .faqs-description {
+    margin-top: 0 !important;
+  }
+
+  #download__section h2 {
+    font-size: 15px;
+  }
+
+  #download__section img {
+    height: 200px;
+  }
+
+  #download_format_buttons button {
+    font-size: 10px;
+    width: calc(100vw / 3);
+  }
+}
